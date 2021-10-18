@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="300dp"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:id="@+id/checkLayout"
+    android:padding="16dp"
+    tools:context=".ShowCheckListActivity">
+
+
+    <TextView
+        android:id="@+id/species_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:textColor="@color/colorPrimaryDark"
+        android:textAllCaps="true"
+        android:textAlignment="center"
+        android:textStyle="bold"
+        android:hint="Species Name"
+         />
+
+    <TextView
+        android:id="@+id/common_name"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"
+        android:textAllCaps="true"
+        android:textAlignment="center"
+        android:hint="Common Name" />
+
+    <EditText
+        android:id="@+id/count"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"
+        android:textAllCaps="true"
+        android:textAlignment="viewStart"
+        android:inputType="number"
+        android:maxEms="10"
+        android:hint="Number Observed" />
+
+    <EditText
+        android:id="@+id/details"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Details"
+        android:textSize="15sp"
+        android:layout_marginTop="20dp"
+        android:inputType="textMultiLine" />
+
+
+</LinearLayout>

@@ -1,0 +1,155 @@
+{
+  "data": {
+    "questions": [
+      {
+        "id": 1,
+        "question_type_id": 2,
+        "question_type_name": "Radio",
+        "question_name": "Weather?",
+        "question_item": [
+          {
+            "answer_id": "11",
+            "name": "Sunny"
+          },
+          {
+            "answer_id": "12",
+            "name": "Cloudy"
+          },
+          {
+            "answer_id": "13",
+            "name": "Drizzling"
+          },
+          {
+            "answer_id": "14",
+            "name": "Foggy"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "question_type_id": 2,
+        "question_type_name": "Radio",
+        "question_name": "Overhead Canopy ?",
+        "question_item": [
+          {
+            "answer_id": "21",
+            "name": "Yes"
+          },
+          {
+            "answer_id": "22",
+            "name": "No"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "question_type_id": 1,
+        "question_type_name": "CheckBox",
+        "question_name": "Surrounding habitat ?",
+        "question_item": [
+          {
+            "answer_id": "31",
+            "name": "Urban (Built-up)"
+          },
+          {
+            "answer_id": "32",
+            "name": "Rural (Agricultural, Small Settlements)"
+          },
+          {
+            "answer_id": "33",
+            "name": "Scrubland"
+          },
+          {
+            "answer_id": "34",
+            "name": "Scrub-Savana"
+          },
+          {
+            "answer_id": "35",
+            "name": "Forest (Evergreen / Deciduous)"
+          }, {
+            "answer_id": "36",
+            "name": "Grassland"
+          },
+          {
+            "answer_id": "37",
+            "name": "Desert"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "question_type_id": 2,
+        "question_type_name": "Radio",
+        "question_name": "Terrestrial Vegetation Cover ?",
+        "question_item": [
+          {
+            "answer_id": "41",
+            "name": "Yes"
+          },
+          {
+            "answer_id": "42",
+            "name": "No"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "question_type_id": 2,
+        "question_type_name": "Radio",
+        "question_name": "Water Flow ?",
+        "question_item": [
+          {
+            "answer_id": "51",
+            "name": "Yes"
+          },
+          {
+            "answer_id": "52",
+            "name": "No"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "question_type_id": 1,
+        "question_type_name": "CheckBox",
+        "question_name": "What type of Anthropogenic impact do you see on the WaterBody?",
+        "question_item": [
+          {
+            "answer_id": "61",
+            "name": "Domestic Sewage"
+          },
+          {
+            "answer_id": "62",
+            "name": "Industrial Effluent"
+          },
+          {
+            "answer_id": "63",
+            "name": "Agricultural Runoff"
+          },
+          {
+            "answer_id": "64",
+            "name": "Solid Waste"
+          },
+          {
+            "answer_id": "65",
+            "name": "Riparian Deforestation"
+          },
+          {
+            "answer_id": "66",
+            "name": "Soil Extraction"
+          },
+          {
+            "answer_id": "67",
+            "name": "Invasive Species (Plants, Fishes, etc)"
+          },
+          {
+            "answer_id": "68",
+            "name": "No visible impact"
+          }
+        ]
+      }
+    ]
+  },
+  "status": true,
+  "message": "The data was fetched successfully"
+}

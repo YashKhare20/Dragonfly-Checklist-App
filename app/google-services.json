@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "96002293029",
+    "firebase_url": "https://dragonflymain-d6f8b.firebaseio.com",
+    "project_id": "dragonflymain-d6f8b",
+    "storage_bucket": "dragonflymain-d6f8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96002293029:android:236697d4ce4073ae406ecc",
+        "android_client_info": {
+          "package_name": "com.example.dragonfly_main"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96002293029-tk9nhii3u4qr9n28237q8j2stsp893va.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dragonfly_main",
+            "certificate_hash": "e00ccaf405b5bb9cfd9d8c068cc974e056c26fea"
+          }
+        },
+        {
+          "client_id": "96002293029-u84svtgf06k8612vto65v81cpr69nqp2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnOmedbaeUCw0x6Qhu8bo2BVEqI8a8gvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96002293029-u84svtgf06k8612vto65v81cpr69nqp2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

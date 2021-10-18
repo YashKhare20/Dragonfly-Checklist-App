@@ -1,0 +1,171 @@
+<resources>
+    <string name="app_name">Dragonfly</string>
+    <string name="launch_activity">Launch activity</string>
+    <string name="action_sign_in_short">Register</string>
+    <string name="email">Email</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+    <string name="change_email">Change Email</string>
+    <string name="change_password">Change Password</string>
+    <string name="send_password_reset_email">Send Password reset email</string>
+    <string name="remove_user">Remove user</string>
+    <string name="new_pass">New Password</string>
+    <string name="title_activity_profile">Firebase</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_link_to_register">Not a member? Get registered now!</string>
+    <string name="btn_link_to_login">Already registered. Login!</string>
+    <string name="title_activity_reset_password">ResetPasswordActivity</string>
+    <string name="btn_forgot_password">Forgot your password?</string>
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="btn_back"><![CDATA[<< Back]]></string>
+    <string name="hint_new_email">New Email</string>
+    <string name="btn_change">Change</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_remove">Remove</string>
+    <string name="btn_sign_out">Sign Out</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="lbl_forgot_password">Forgot password?</string>
+    <string name="forgot_password_msg">We just need your registered Email Id to sent you password reset instructions.</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="nav_header_title">Chaturullu Labs</string>
+    <string name="nav_header_subtitle">chaturullu.in</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="GPSAlertDialogTitle">GPS is setting</string>
+    <string name="GPSAlertDialogMessage">GPS is not enabled. Do you want to go to setting menu</string>
+
+    <string name="google_maps_key">AIzaSyDrv0jzy7go-0znn2-tKG9yYj4sNFog0oc</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="done">Done</string>
+
+    <string name="start_questionnaire">Start Questionnaire</string>
+    <string name="show_result">Show Result</string>
+    <string name="finish">Finish</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="latitude">Latitude : </string>
+    <string name="longitude">Longitude : </string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <string name="location_unknown">Location unknown</string>
+    <string name="location_updates_label">Location Updates</string>
+
+    <string name="permission_rationale">Location permission is needed for core functionality</string>
+    <string name="permission_denied_explanation">Permission was denied, but is needed for core
+        functionality.</string>
+    <string name="settings">Settings</string>
+    <string name="ok">OK</string>
+    <string name="request_location_updates">Request location updates</string>
+    <string name="remove_location_updates">Remove location updates</string>
+
+    <string name="location_updated">Location Updated: %1$s</string>
+
+    <string name="enter_location">Enter Location</string>
+    <string name="auto_complete_text">Autocomplete textview with custom adapter.</string>
+    <string name="error">Google Api key is missing.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="todo">TODO</string>
+    <string name="common_name">Common_Name</string>
+    <string name="dragonfly_name">Dragonfly_Name</string>
+    <string-array name="Dragonfly_Name">
+        <item>Brachythemis contaminata</item>
+        <item>Pantala flavescens</item>
+        <item>Trithemis aurora</item>
+        <item>Crocothemis servilia</item>
+        <item>Orthetrum sabina</item>
+        <item>Orthetrum pruinosum</item>
+        <item>Ictinogomphus rapax</item>
+        <item>Anax immaculifrons</item>
+        <item>Neurothemis tullia</item>
+        <item>Neurothemis fulvia</item>
+        <item>Tholymis tillarga</item>
+        <item>Trithemis pallidinervis</item>
+        <item>Diplacodes trivialis</item>
+        <item>Rhyothemis variegata</item>
+        <item>Acisoma panorpoides</item>
+        <item>Trithemis festiva</item>
+        <item>Dragonfly_Name</item>
+        <item>Dragonfly_Name</item>
+        <item>Dragonfly_Name</item>
+        <item>Dragonfly_Name</item>
+    </string-array>
+
+    <string-array name="Common_Name">
+        <item>Ditch Jewel</item>
+        <item>Wandering Glider</item>
+        <item>Crimson Marsh Glider</item>
+        <item>Ruddy Marsh Skimmer</item>
+        <item>Green Marsh Hawk</item>
+        <item>Crimson-tailed Marsh Hawk</item>
+        <item>Common Clubtail</item>
+        <item>Blue Darner</item>
+        <item>Pied Paddy Skimmer</item>
+        <item>Fulvous Forest Skimmer</item>
+        <item>Coral-tailed Cloud WIng</item>
+        <item>Long-legged Marsh Glider</item>
+        <item>Black Stream Glider</item>
+        <item>Ground Skimmer</item>
+        <item>Common Picturewing</item>
+        <item>Trumpet Tail</item>
+        <item>Common name</item>
+        <item>Common name</item>
+        <item>Common name</item>
+        <item>Common name</item>
+    </string-array>
+
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+        <item>None</item>
+    </string-array>
+
+    <string-array name="ObservationType">
+        <item>Travelling</item>
+        <item>Stationary</item>
+        <item>Incidental</item>
+        <item>Random</item>
+    </string-array>
+
+    <string-array name="sort_types">
+        <item>India</item>
+        <item>North</item>
+        <item>South</item>
+        <item>West</item>
+        <item>East</item>
+    </string-array>
+
+
+    <string name="menu_login">Log in</string>
+    <string name="menu_logout">Log out</string>
+    <string name="login_label">Log In</string>
+    <string name="email_label">Email</string>
+    <string name="password_label">Password</string>
+    <string name="send_text">Send</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nec condimentum ante, quis mattis mi. Proin ut rhoncus libero, ac euismod neque. Ut suscipit, enim a facilisis consequat, orci lacus venenatis orci, at ultricies orci nulla sed ex. In condimentum viverra velit, eget feugiat libero imperdiet vel. Aenean pretium, lectus vitae bibendum bibendum, diam turpis convallis eros, quis tristique leo sapien at ipsum. Praesent eu odio id nulla lobortis auctor. Donec eget dolor eget nisl euismod commodo vel a lacus. Quisque ut justo vitae urna pharetra accumsan. Etiam dignissim neque iaculis mauris viverra, blandit rhoncus odio porttitor. Phasellus nibh arcu.</string>
+    <string name="title_sign_in">Welcome</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="heading_recent">Recent</string>
+    <string name="heading_my_posts">My Posts</string>
+    <string name="heading_my_top_posts">My Top Posts</string>
+
+
+
+</resources>
